@@ -1,0 +1,6 @@
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ClosureExample\ClosureExample\bin\Debug\ClosureExample.exe.config
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ClosureExample\ClosureExample\bin\Debug\ClosureExample.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ClosureExample\ClosureExample\bin\Debug\ClosureExample.pdb
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ClosureExample\ClosureExample\obj\Debug\ClosureExample.csprojResolveAssemblyReference.cache
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ClosureExample\ClosureExample\obj\Debug\ClosureExample.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ClosureExample\ClosureExample\obj\Debug\ClosureExample.pdb
